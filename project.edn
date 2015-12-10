@@ -1,0 +1,4 @@
+{:name invoke
+ :version "0.1.1-alpha"
+ :description "CLI arguments parsing"
+ :dependencies [[justinj/sparkles "0.1.1-alpha"]]}
